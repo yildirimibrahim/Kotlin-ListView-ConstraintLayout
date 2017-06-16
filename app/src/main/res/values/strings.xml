@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotilnMyApp</string>
+    <string name="textName">Constrain Layout ve Kotlin</string>
+    <string name="kotlinBtn">Kotlin Demo</string>
+</resources>
